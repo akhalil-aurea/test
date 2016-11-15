@@ -8,7 +8,7 @@ public class Main {
 
   }
   
-  /*public static void longMethod() {
+  public static void longMethod() {
     System.out.println("Test");
     System.out.println("Test");
     System.out.println("Test");
@@ -122,6 +122,6 @@ public class Main {
     System.out.println("Test");
     System.out.println("Test");
 
-  }*/
+  }
 
 }
